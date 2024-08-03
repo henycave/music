@@ -1,0 +1,47 @@
+PODS:
+  - audio_session (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - just_audio (0.0.1):
+    - Flutter
+  - just_waveform (0.0.1):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - volume_controller (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - audio_session (from `.symlinks/plugins/audio_session/ios`)
+  - Flutter (from `Flutter`)
+  - just_audio (from `.symlinks/plugins/just_audio/ios`)
+  - just_waveform (from `.symlinks/plugins/just_waveform/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - volume_controller (from `.symlinks/plugins/volume_controller/ios`)
+
+EXTERNAL SOURCES:
+  audio_session:
+    :path: ".symlinks/plugins/audio_session/ios"
+  Flutter:
+    :path: Flutter
+  just_audio:
+    :path: ".symlinks/plugins/just_audio/ios"
+  just_waveform:
+    :path: ".symlinks/plugins/just_waveform/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  volume_controller:
+    :path: ".symlinks/plugins/volume_controller/ios"
+
+SPEC CHECKSUMS:
+  audio_session: 088d2483ebd1dc43f51d253d4a1c517d9a2e7207
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  just_audio: baa7252489dbcf47a4c7cc9ca663e9661c99aafa
+  just_waveform: e03174d1eadf4b096b01715a3e3ccbf940a05d25
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  volume_controller: 531ddf792994285c9b17f9d8a7e4dcdd29b3eae9
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
